@@ -1,4 +1,4 @@
-#React Redux Quickstart
+# React Redux Quickstart
 
 Simple learning example for React and Redux.
 
